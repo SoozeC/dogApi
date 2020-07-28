@@ -1,0 +1,37 @@
+﻿[
+  {
+    "breed": "Labrador",
+    "colours": [ "Gold", "Black", "White", "Chocolate" ],
+    "size": "Large",
+    "averageLifeSpan": "10",
+    "origin": "England"
+  },
+  {
+    "breed": "German Shepherd",
+    "colours": [ "Brown" ],
+    "size": "Large",
+    "averageLifeSpan": "10",
+    "origin": "Germany"
+  },
+  {
+    "breed": "Golden Retriever",
+    "colours": [ "Gold" ],
+    "size": "Large",
+    "averageLifeSpan": "10",
+    "origin": "Scotland"
+  },
+  {
+    "breed": "French Bulldog",
+    "colours": [ "White" ],
+    "size": "Small",
+    "averageLifeSpan": "10",
+    "origin": "France"
+  },
+  {
+    "breed": "Bulldog",
+    "colours": [ "Brown" ],
+    "size": "Medium",
+    "averageLifeSpan": "8",
+    "origin": "England"
+  }
+]
