@@ -18,10 +18,14 @@ C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Microsoft.Open
 C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.csproj.CoreCompileInputs.cache
-C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.csproj.CopyComplete
 C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.dll
 C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.pdb
 C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.genruntimeconfig.cache
+C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sl_cl\source\repos\dogApi\dogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.csproj.CoreCompileInputs.cache
+C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sl_cl\source\repos\dogApi\dogApi\obj\Debug\netcoreapp3.1\DogApi.MvcApplicationPartsAssemblyInfo.cache
